@@ -1,0 +1,70 @@
+html, body {
+  margin: 10;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border:solid;
+}
+h2{
+  color:beige;
+  font:  3.4em Andale Mono;
+  display:flex;
+  text-align: center;
+  justify-content:center;
+  border:solid;
+  border-color: silver;
+}
+image{
+  border:solid;
+}
+
+h1{
+  color:beige;
+  font:  2.7em Andale Mono;
+  display:flex;
+  text-align: center;
+  justify-content:center;
+  border:solid;
+  border-color: silver;
+}
+h3{
+  color:wheat;
+  font: 1.4em Andale Mono;
+  text-align: center;
+  
+}
+
+*{
+  align-items: center;
+}
+
+input{
+  color:seashell;
+  background: none;
+  font: italic normal 1.4em Andale Mono;
+  display:flex;
+  
+  box-shadow: 5px -5px;
+  text-align: center;
+  justify-content:center;
+  border:solid;
+  border-radius: 1000cm;
+  border-color: silver;
+}
+
+button{
+  
+  background: none;
+  color:seashell;
+  font: italic normal 1.1em Andale Mono;
+  display:flex;
+
+  text-align: center;
+  justify-content:space-between;
+  border:solid;
+  box-shadow: 5px -5px;
+  border-radius: 1000cm;
+  border-color: silver;
+
+}
